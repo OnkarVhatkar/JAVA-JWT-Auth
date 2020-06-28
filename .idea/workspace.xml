@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ae613ed-aee7-447c-a5fd-d6d4d9b25d95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cJTgscEIkT0XmzIMe6fdFHzEtf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/vonkar/jwtauthjpa" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JwtAuthJpaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vonkar.jwtauthjpa.JwtAuthJpaApplication" />
+      <module name="jwt-auth-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vonkar.jwtauthjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JwtAuthJpaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae613ed-aee7-447c-a5fd-d6d4d9b25d95" name="Default Changelist" comment="" />
+      <created>1590245811279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590245811279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="114" key="#Plugins" timestamp="1590261391382">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="320" y="114" key="#Plugins/0.23.1440.852@0.23.1440.852" timestamp="1590261391382" />
+    <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1590262041222">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser/0.23.1440.852@0.23.1440.852" timestamp="1590262041222" />
+    <state width="541" height="438" key="DebuggerActiveHint" timestamp="1590265162552">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="541" height="438" key="DebuggerActiveHint/0.23.1440.852@0.23.1440.852" timestamp="1590265162552" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom" timestamp="1593345674541">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1593345674541" />
+    <state width="1398" height="275" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1590265213392" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center" timestamp="1593345674540">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1593345674540" />
+    <state width="1398" height="275" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1590265213391" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left" timestamp="1593345674538">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1593345674538" />
+    <state width="1398" height="275" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1590265213391" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right" timestamp="1593345674541">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1593345674541" />
+    <state width="1398" height="275" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1590265213391" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom" timestamp="1593345674544">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/0.23.1440.849@0.23.1440.849" timestamp="1593345674544" />
+    <state width="1398" height="275" key="GridCell.Tab.1.bottom/0.23.1440.852@0.23.1440.852" timestamp="1590265213392" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center" timestamp="1593345674543">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.center/0.23.1440.849@0.23.1440.849" timestamp="1593345674543" />
+    <state width="1398" height="275" key="GridCell.Tab.1.center/0.23.1440.852@0.23.1440.852" timestamp="1590265213392" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left" timestamp="1593345674542">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.left/0.23.1440.849@0.23.1440.849" timestamp="1593345674542" />
+    <state width="1398" height="275" key="GridCell.Tab.1.left/0.23.1440.852@0.23.1440.852" timestamp="1590265213392" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right" timestamp="1593345674543">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.right/0.23.1440.849@0.23.1440.849" timestamp="1593345674543" />
+    <state width="1398" height="275" key="GridCell.Tab.1.right/0.23.1440.852@0.23.1440.852" timestamp="1590265213392" />
+    <state x="221" y="88" key="SettingsEditor" timestamp="1590261316615">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="221" y="88" key="SettingsEditor/0.23.1440.852@0.23.1440.852" timestamp="1590261316615" />
+    <state x="503" y="234" key="chooseDestDirectoryDialog" timestamp="1590258303438">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="503" y="234" key="chooseDestDirectoryDialog/0.23.1440.852@0.23.1440.852" timestamp="1590258303438" />
+    <state x="397" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1590245815766">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="397" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.852@0.23.1440.852" timestamp="1590245815766" />
+    <state x="378" y="205" width="683" height="486" key="find.popup" timestamp="1593285734992">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="378" y="205" width="683" height="486" key="find.popup/0.23.1440.849@0.23.1440.849" timestamp="1593285734992" />
+    <state x="378" y="206" width="683" height="486" key="find.popup/0.23.1440.852@0.23.1440.852" timestamp="1590262673871" />
+    <state x="385" y="198" width="670" height="674" key="search.everywhere.popup" timestamp="1593285638420">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="385" y="198" width="670" height="674" key="search.everywhere.popup/0.23.1440.849@0.23.1440.849" timestamp="1593285638420" />
+    <state x="385" y="199" width="670" height="676" key="search.everywhere.popup/0.23.1440.852@0.23.1440.852" timestamp="1590264351754" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vonkar/jwtauthjpa/config/JwtRequestFilter.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
